@@ -42,16 +42,16 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6288232154376', 'AbiDev', true],//
-['62882016155766', '𝙭𝙧𝙗𝙤𝙩', true]
+['6281386945391', 'Nizar', true],//
+['6281386945391', 'Nizar', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62882016155766'
-global.nomorown = '6288232154376'
-global.nomorownv2 = '62882016155766'
-global.nomorown1 = '6288232154376'
-global.nomorown2 = '62882016155766'
+global.nomorbot = '6281386945391'
+global.nomorown = '6281386945391'
+global.nomorownv2 = '6281386945391'
+global.nomorown1 = '6281386945391'
+global.nomorown2 = '6281386945391'
 global.nomorwa = '0'
 
 
@@ -67,43 +67,43 @@ global.watermark = wm
 global.status = 'public'
 global.danied = '          ⚠️ 𝐀𝐜𝐜𝐞𝐬 𝐃𝐚𝐧𝐢𝐞𝐝 ⚠️  '
 global.wame = 'https://wa.me/6288232154376'
-global.alllink = `https://youtube.com`
+global.alllink = `https://www.nizarr.my.id`
 global.wm2 = ' 𝙭𝙧𝙗𝙤𝙩 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝙭𝙧𝙗𝙤𝙩`
+global.titlebot = `Nai-bot Store`
 global.stickpack = 'Created by: '
-global.stickauth = `© 𝙭𝙧𝙗𝙤𝙩`
+global.stickauth = `© Nai-bot Store`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '#𝐗𝐑𝐚𝐳'
-global.nameown2 = '𝙭𝙧𝙗𝙤𝙩'
+global.nameown1= 'Nizar'
+global.nameown2 = 'Nizar'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/abityru'//Instagram klian
-global.sgh = 'https://github.com/AbiDev11' //github
-global.tautanwa = 'https://wa.me/6288232154376'
-global.sgc = 'https://chat.whatsapp.com/BKi5RCs2EHaG2g0e2bJ72r' //group whatsapp
-global.syt = '-' //youtube
-global.sytv = 'https://youtu.be/lN-0jnuK2'//link video yt
+global.sig = 'https://instagram.com/nizarrrahman.f_'//Instagram klian
+global.sgh = 'https://github.com/nizarrahman' //github
+global.tautanwa = 'https://wa.me/6281386945391'
+global.sgc = 'https://chat.whatsapp.com/BWHiCcMOZG39gYt1HCc2ue' //group whatsapp
+global.syt = 'https://www.nizarr.my.id' //youtube
+global.sytv = '-'//link video yt
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0888232154376'
+global.pdana = '-'
 global.povo = '-'
-global.pgopay = '0888232154376'
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '-'
+global.ppulsa = '081386945391'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 15.000\n├ 30 Hari IDR 15.000\n ├ Permanent 50.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
@@ -130,7 +130,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.stiker_wait = 'Wait....'
+global.stiker_wait = 'Tunggu Sebentar....'
 global.wait = 'Wait....'
 global.wait4 = 'Wait....'
 global.eror = 'Mohon Maaf Server Kami Sedang Error!'
