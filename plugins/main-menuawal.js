@@ -40,11 +40,11 @@ let time = moment.tz('Asia/Jakarta').format('HH:mm:ss')
      }
   
   let cap = `
-          *『 𝘟𝘙 𝘔𝘜𝘓𝘛𝘐 𝘋𝘌𝘝𝘐𝘊𝘌 』*
+          *『 Nai-bot Store  』*
          
 乂  「 ${name} 」
 
-乂  *I N F O - B O T*\n\n• Sistem otomatis (WhatsApp Bot) yang dapat membantu untuk melakukan sesuatu, mencari dan mendapatkan data/informasi hanya melalui WhatsApp.\n\n乂   *N O T E* \n\n• Gunakan bot di private message agar bot merespon dengan cepat, \n\n• Beri jeda yah agar terhindar dari banned😇\n\n*📮 *Note:* _Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner dengan cara ketik .report banh tik tok audio error_
+乂  *I N F O - B O T*\n\n•Bot Ini Di ciptakan Oleh Sebuah Developer Yaitu Nai Developer\n• Sistem otomatis (WhatsApp Bot) yang dapat membantu untuk melakukan sesuatu, mencari dan mendapatkan data/informasi hanya melalui WhatsApp.\n\n乂   *N O T E* \n\n• Gunakan bot di private message agar bot merespon dengan cepat, \n\n• Beri jeda yah agar terhindar dari banned😇\n\n*📮 *Note:* _Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada Owner dengan cara ketik .report banh tik tok audio error_
   `
 let fpayment = {
   "key": {
@@ -60,7 +60,7 @@ let fpayment = {
       "requestFrom": "0@s.whatsapp.net",
       "noteMessage": {
         "extendedTextMessage": {
-          "text": "𝙭𝙧𝙗𝙤𝙩 𝗺𝗱"
+          "text": "Nai-bot Store"
         }
       },
       "expiryTimestamp": fsizedoc,
@@ -93,7 +93,7 @@ conn.send3ButtonDoc(m.chat, cap, botdate, 'ALL MENU', '.? all', 'LIST MENU', '.l
                     body: bottime,
     containsAutoReply: true,
     mediaType: 1,
-    mediaUrl: 'https://instagram.com/abityru24', 
+    mediaUrl: 'https://instagram.com/nizarrrahman.f_', 
     renderLargerThumbnail: true,
     showAdAttribution: false,
     sourceId: wm,
@@ -111,7 +111,7 @@ await conn.reply(m.chat, info, fvn, { contextInfo: { externalAdReply: { showAdAt
     mediaType: 1, 
     description: syt,
     title: `Jangan DiSpam`,
-    body: `⚠️ 𝙭𝙧𝙗𝙤𝙩 𝗺𝗱 ⚠️`,
+    body: `⚠️ Nai-bot Store ⚠️`,
     thumbnail: await (await fetch(thumb)).buffer(),
     sourceUrl: syt
   }
