@@ -11,8 +11,9 @@ if (command == 'sewabot') {
         
 1. ${htki} Sewa ${htka}
 Rp. 5000/Minggu 
-Rp. 15.000/Bulan
-Rp. 30.000/Permanen
+Rp. 15.000/Bulan(gc utama)
+Rp. 20.000/bulan(gc utama & selec)
+Rp. 50.000/Permanen
 
 2. ${htki} Premium ${htka}
 Rp. 10.000/bulan
